@@ -25,7 +25,7 @@ Before you run the code, ensure the ```$FLINK_HOME``` environment variable is se
 access flink's bin folder and start the cluster. You will need to edit to bash script's ```python_script``` variable
 to point to the location where the script resides on your local machine.
 
-After this configuration is complete, simple run ./main.sh and check the Flink web UI. The output should be similar to this.
+After this configuration is complete, simply run ./main.sh and check the Flink web UI. The output should be similar to this.
 
 ![alt-text](https://ci.apache.org/projects/flink/flink-docs-release-1.9/page/img/quickstart-setup/jobmanager-1.png)
 
