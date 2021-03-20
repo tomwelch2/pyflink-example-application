@@ -1,3 +1,5 @@
+![alt-text](https://commons.bmstu.wiki/images/d/d6/Flink_en.jpeg)
+
 # pyflink-example-application
 
 <h2> Repository Structure </h2>
