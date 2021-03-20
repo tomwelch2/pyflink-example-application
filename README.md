@@ -27,6 +27,6 @@ to point to the location where the script resides on your local machine.
 
 After this configuration is complete, simple run ./main.sh and check the Flink web UI. The output should be similar to this.
 
-![alt-text] https://ci.apache.org/projects/flink/flink-docs-release-1.9/page/img/quickstart-setup/jobmanager-1.png
+![alt-text](https://ci.apache.org/projects/flink/flink-docs-release-1.9/page/img/quickstart-setup/jobmanager-1.png)
 
 
