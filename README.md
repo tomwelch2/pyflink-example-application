@@ -1,7 +1,5 @@
 # pyflink-example-application
 
-<h1>Pyflink-example-application</h1>
-
 <h2> Repository Structure </h2>
 
 ```
