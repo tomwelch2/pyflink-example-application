@@ -28,7 +28,7 @@ tbl_env.execute_sql(
 
             WITH (
                 'connector'='filesystem',
-                'path'='/home/tom/Documents/pythonfiles/flink_stuff/git_project/input',
+                'path'=*ENTER PATH OF INPUT FOLDER*,
                 'format'='csv'
             )
             """
@@ -92,4 +92,4 @@ df = df.to_pandas()
 
 #Writing data
 
-df.to_csv("/home/tom/Documents/pythonfiles/flink_stuff/git_project/output/covid_19.csv")
+df.to_csv(*ENTER PATH OF OUTPUT FOLDER*)
