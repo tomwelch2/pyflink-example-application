@@ -9,7 +9,7 @@
 │   └── covid_19.csv
 ├── main.sh
 ├── output
-│   └── covid_19.csv
+├── README.md
 └── scripts
     └── script.py
 ```
