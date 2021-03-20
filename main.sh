@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python_script="/home/tom/Documents/pythonfiles/flink_stuff/git_project/scripts/script.py"
+python_script=*ENTER LOCATION OF PYTHON SCRIPT HERE*
 
 cd $FLINK_HOME && bin/start-cluster.sh
 
