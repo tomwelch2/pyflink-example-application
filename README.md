@@ -23,7 +23,8 @@ using UDFs, and write it back as a csv file to another directory on a local syst
 
 Before you run the code, ensure the ```$FLINK_HOME``` environment variable is set to allow the bash script to 
 access flink's bin folder and start the cluster. You will need to edit to bash script's ```python_script``` variable
-to point to the location where the script resides on your local machine.
+to point to the location where the script resides on your local machine, as well as the ```path``` parameter in the
+python script DDL and the output path.
 
 After this configuration is complete, simply run ./main.sh and check the Flink web UI. The output should be similar to this.
 
